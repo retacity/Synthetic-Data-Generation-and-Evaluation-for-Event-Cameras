@@ -77,3 +77,6 @@ Valid maps: `Town01`–`Town07`, `Town10HD`. Valid weather: `ClearNoon`, `Cloudy
 - CARLA 0.9.15 (server + matching `carla` Python package)
 - Python packages: `numpy`, `torch`, `opencv-python`, `h5py`, `hdf5plugin`, `tqdm`
 - A CUDA GPU is recommended for training and evaluation.
+
+## link:
+https://uminho365-my.sharepoint.com/:u:/r/personal/a94942_uminho_pt/Documents/Synthetic%20Data%20Generation%20and%20Evaluation%20for%20Event%20Cameras/data.zip?d=w01aeb90f7f1e4643839328014dd67e0c&csf=1&web=1&e=xMUOdF
